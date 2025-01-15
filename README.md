@@ -90,13 +90,13 @@ To run this project locally, ensure you have the following installed:
 
 
 ### Dependencies
-** Backend Dependencies **
+#### Backend Dependencies
 - spring-boot-starter-web
 - spring-boot-starter-data-jpa
 - mysql-connector-java
 - lombok
 - spring-boot-starter-validation
-** Frontend Dependencies **
+#### Frontend Dependencies
 - react
 - react-dom
 - axios
